@@ -150,6 +150,7 @@ body {
     color: blue;
     padding-left: 20px;
     width: 40vh;
+    border-bottom-right-radius: 50px;
    
 
 }
